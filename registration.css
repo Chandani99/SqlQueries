@@ -1,0 +1,97 @@
+
+#body{
+	float: left;
+	height: auto;
+	width: 1200px;
+	margin-left: 170px;
+	background-color: #D5DBDB ;
+}
+#logo{
+	
+	float: left;
+	width: inherit;
+	height: 150px;
+	background-color:blueviolet;
+}
+#design{
+	
+	float: left;
+	height: inherit;
+	width: 500px;
+	border-color: #ffffff;
+}
+
+
+td{
+	margin-left: 10px;
+	margin-top: 10px;
+padding: 0px;
+}
+label{
+	font-size: 18px;
+color: #228B22;
+margin-left: 10px;
+}
+.input1{
+	height: 40px;
+	width:250px;
+	
+	margin-left: 10px;
+	border-radius: 10px;
+	color: #2982E8; background-color: #ffffff;
+}
+#form{
+	float: left;
+	height: auto;
+	width: 800px;
+margin-bottom: 10px;
+	box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+	margin-left:200px;
+	border-radius: 5px;
+	align-content: center;
+}
+.countries{
+	height: 40px;
+	width:250px;
+	
+	margin-left: 10px;
+	border-radius: 10px;
+	background-color: #ffffff;
+}
+.states{
+	height: 40px;
+	width:250px;
+	
+	margin-left: 10px;
+	border-radius: 10px;
+	 background-color: #ffffff;
+
+}
+.cities{
+	height: 40px;
+	width:250px;
+	
+	margin-left: 10px;
+	border-radius: 10px;
+	 background-color: #ffffff;
+}
+#center
+{
+	float: left;
+	margin-top: 50px;
+	width: 600px;
+	height: 300px;
+	margin-bottom: 100px;
+box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+	margin-left:300px;
+}
+#center1
+{
+	float: left;
+	margin-top: 50px;
+	width: 600px;
+	height: 300px;
+	margin-bottom: 100px;
+box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+	margin-left:300px;
+}
